@@ -41,17 +41,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/getting-started/</loc>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/winmm-patch/</loc>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/Soundfonts/configuration/</loc>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://guides.blackmidi.wiki/OmniMIDI/Soundfonts/recommendations/</loc>
+         <lastmod>2024-02-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://guides.blackmidi.wiki/PFA/</loc>
          <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://guides.blackmidi.wiki/PFA/getting-started/</loc>
-         <lastmod>2024-02-04</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://guides.blackmidi.wiki/PFA/winmm-patch/</loc>
          <lastmod>2024-02-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
