@@ -24,4 +24,4 @@ Once it's done, you will see a new Zenith icon on your desktop.
 
 When opening zenith, you will see this:
 
-![Zenith Window](./images/Zenith.png)
+<img src="https://raw.githubusercontent.com/GreenWeegeeCantCode/Black-MIDI-Guides/main/docs/Zenith/images/Zenith.png" width=50% height=50%>
