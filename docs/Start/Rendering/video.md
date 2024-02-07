@@ -36,6 +36,7 @@ Zenith has 2 versions which you can choose to start with:
 | Good for starters.                  | Very slow when rendering (unless using the modded version). |
 | Can be customized by using plugins. | Can't be used on older PCs.                                 |
 | Extremely RAM optimized.            | Depreciated                                                 |
+| Can show max stats in note count.   | Needs OpenGL 3.0 or later to use.
 
 ### Setup
 
