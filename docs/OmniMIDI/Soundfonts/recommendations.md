@@ -20,7 +20,7 @@ The download page for arachno can be found on the [Arachnosoft website.](https:/
 
 ??? note "You will get multiple download options, i recommend using the Google Drive one."
 
-    ![Image](../images/downloadoptions.png)
+    ![Image](../images/soundfonts/ArachnoDownloadOptions.png)
 
 Arachno is mainly a .sfARK file, however the download above is the .sf2 version which can be used in most synth's, including OmniMIDI
 
